@@ -18,3 +18,4 @@ Confira o design da aplicação no [Figma](https://www.figma.com/design/wi56jWW6
 - Figma
 
 ![Cadastro da viagem](./pictures/inicio.png)
+![Organizador de viagens](./pictures/fim.png)
