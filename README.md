@@ -17,5 +17,17 @@ Confira tudo sobre o design da aplicação, como paleta de cores, grade de taman
 - Consumo de REST API Java Spring
 - Figma
 
+## Como usar
+
+## Instale as dependências
+```bash
+npm install
+
+## Inicie o projeto
+```bash
+npm run dev
+
 ![Cadastro da viagem](./pictures/inicio.png)
 ![Organizador de viagens](./pictures/fim.png)
+
+
