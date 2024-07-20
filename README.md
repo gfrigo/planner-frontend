@@ -19,12 +19,12 @@ Confira tudo sobre o design da aplicação, como paleta de cores, grade de taman
 
 ## Como usar
 
-## Instale as dependências
+### Instale as dependências
 ```bash
 npm install
 ```
 
-## Inicie o projeto
+### Inicie o projeto
 ```bash
 npm run dev
 ```
